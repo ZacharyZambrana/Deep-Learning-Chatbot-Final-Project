@@ -1,0 +1,36 @@
+qid,qtype,question,relevant,answer_span
+G01,lexical,What does error code E-118 mean?,KB-020,E-118
+G02,lexical,What is the Oversized Freight badge on a product page?,KB-001,Oversized Freight badge
+G03,lexical,Which kind of wood conditioner works on solid walnut?,KB-023,linseed oil conditioner for walnut
+G04,lexical,What is CAL-117-2013?,KB-024,CAL-117-2013
+G05,lexical,Which code identifies a recalled wall-anchor bracket kit?,KB-011,TH45-B
+G06,lexical,What is form LP-14 for?,KB-003,LP-14
+G07,lexical,Which form number do I use for a furniture warranty claim?,KB-010,WC-22
+G08,lexical,What is the case code prefix for a billing dispute?,KB-014,BD-
+G09,semantic,The freight driver delivered but the furniture is damaged. How quickly must I notify you?,KB-003,24 hours
+G10,semantic,How long do I get to change my mind and send furniture back?,KB-004,60 days
+G11,semantic,Is there a fee to send a dining table or sofa back?,KB-006,$99
+G12,semantic,What does the 10-year craftsmanship guarantee cover?,KB-009,10-year structural warranty
+G13,semantic,"If I submit a warranty claim form, how quickly does somebody review it?",KB-010,3 business days
+G14,semantic,Do you accept bank wire transfers or ACH payments?,KB-012,bank wire transfers
+G15,semantic,I want you to erase everything you hold about me and my room plans.,KB-021,privacy@grassrootsfurniture.com
+G16,semantic,What pressure rating do cushion cores withstand in compression tests?,KB-025,10 metre column
+G17,multi_doc,Where must Canadian orders be returned to?,KB-007|KB-004,Niagara Falls transit depot
+G18,multi_doc,My dining table arrived with cracked wood. Which form do I submit for replacement?,KB-003|KB-006,LP-14
+G19,multi_doc,What is the return fee for returning dining chairs versus large pieces?,KB-006,$35
+G20,multi_doc,I cancelled an order an hour after placing it. What is the fee?,KB-030,zero fee
+G21,multi_doc,Which rewards tier includes complimentary White Glove delivery?,KB-016,Summit Tier
+G22,cross_section,What does White Glove delivery include?,KB-001,room-of-choice placement
+G23,cross_section,How long is the email verification link valid when creating an account?,KB-018,24 hours
+G24,cross_section,How many points per dollar does the Summit Tier earn?,KB-016,2 points per dollar
+G25,stale,What is Grassroots Furniture's return window?,KB-004,60 days
+G26,stale,Is there a restocking fee when I return standard catalog furniture?,KB-004,no restocking fee
+G27,stale,"Do I have to phone up to start a return, or can I do it online?",KB-005,select Request Return
+G28,restricted,How much goodwill discount can a tier 2 manager approve?,,
+G29,restricted,"Who is on call for weekend logistics escalations, and on what pager?",,
+G30,restricted,At what damage value does a claim get flagged for an adjuster?,,
+G31,restricted,How many payment attempts trip the fraud review velocity rule?,,
+G32,restricted,What is the maximum fee waiver a tier 1 support agent can authorize?,,
+G33,unanswerable,Does Grassroots Furniture sell kayaks or camping tents?,,
+G34,unanswerable,What is Grassroots Furniture's public stock ticker symbol?,,
+G35,unanswerable,Can I rent a dining table for just a weekend event?,,

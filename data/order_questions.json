@@ -1,0 +1,125 @@
+{
+  "customer_id": "C-2041",
+  "refuse": "(?:don.t|do not) have (?:\\w+ ){0,3}(?:information|details|data)|\\bI (?:have|had) no (?:information|details|data)|no information|there.s no information|\\bnot able to (?:help|answer|find|share|provide|give|locate)|unable to (?:find|answer|help|share|locate|provide (?:that|this|any|the|specific) (?:information|details))|(?:can.t|cannot|could not|couldn.t) (?:help|share|answer|find|disclose|assist|locate|give out|provide (?:that|this|any|the|specific|internal) (?:information|details|extensions?))|not (?:allowed|permitted) to (?:share|disclose|give)|(?:are|is) not shared with customers|not (?:in|covered|included|mentioned|found|listed|provided|given|stated|specified) (?:in )?(?:the )?(?:provided )?(?:sources|help|information|documents)|(?:isn.t|is not|aren.t|are not) (?:in|covered|mentioned|available|included|listed) (?:in )?the (?:sources|help)|(?:sources?|help ?cent(?:re|er)|articles?|documents?)[^.]{0,20}(?:do(?:es)?n.t|do(?:es)? not|never) (?:mention|cover|say|contain|include|list|state|address|specify)|(?:nothing in|none of) the (?:provided )?(?:sources|articles|documents)|no (?:direct )?\\w* ?(?:mention|listing|extension listed)|(?:isn.t|is no|there is no|there.s no) (?:any |a )?(?:specific )?mention|(?:that|this|the) information (?:is|isn.t|is not) (?:not )?(?:available|provided|included)|information about [^.]{0,40} is not available|I.m not sure|don.t know|do not know",
+  "questions": [
+    {
+      "qid": "O01",
+      "kind": "answer",
+      "question": "Where is my order GF-40402?",
+      "fact": "status: In transit, tracking: GFT-5528491022",
+      "must": [
+        "In transit|transit",
+        "GFT-5528491022"
+      ],
+      "must_not": [
+        "Delivered|Cancelled|Processing"
+      ]
+    },
+    {
+      "qid": "O02",
+      "kind": "answer",
+      "question": "When was order GF-39127 delivered?",
+      "fact": "delivered on: 2026-06-25",
+      "must": [
+        "2026-06-25|june 25|25(?:th)? (?:of )?june"
+      ],
+      "must_not": [
+        "not delivered|transit|pending"
+      ]
+    },
+    {
+      "qid": "O03",
+      "kind": "answer",
+      "question": "What did I order in GF-40120, and how much did it cost?",
+      "fact": "items: 2 x Cast Iron Base Dining Chair at $310.00, total: $620.00",
+      "must": [
+        "Cast Iron Base Dining Chair",
+        "\\$620|\\$620\\.00|620 dollars"
+      ],
+      "must_not": [
+        "\\$1450|\\$2100"
+      ]
+    },
+    {
+      "qid": "O04",
+      "kind": "answer",
+      "question": "What is the tracking number for order GF-40455?",
+      "fact": "tracking number: GFT-5539201948",
+      "must": [
+        "GFT-5539201948"
+      ],
+      "must_not": [
+        "GFT-5510294811|GFT-5528491022"
+      ]
+    },
+    {
+      "qid": "O05",
+      "kind": "answer",
+      "question": "Has order GF-40318 been delivered?",
+      "fact": "status: Delivered on 2026-07-22",
+      "must": [
+        "Delivered|yes"
+      ],
+      "must_not": [
+        "not delivered|in transit|processing"
+      ]
+    },
+    {
+      "qid": "O06",
+      "kind": "answer",
+      "question": "What was in my order GF-39844, and what did it come to in total?",
+      "fact": "items: 2 x Walnut Floating Shelf, total: $202.00",
+      "must": [
+        "Walnut Floating Shelf",
+        "\\$202|\\$202\\.00|202 dollars"
+      ],
+      "must_not": [
+        "\\$1450|\\$890"
+      ]
+    },
+    {
+      "qid": "O07",
+      "kind": "answer",
+      "question": "On what date did I place order GF-40402?",
+      "fact": "placed on: 2026-09-28",
+      "must": [
+        "2026-09-28|september 28|28(?:th)? (?:of )?september"
+      ],
+      "must_not": [
+        "2026-07-15|2026-06-10"
+      ]
+    },
+    {
+      "qid": "O08",
+      "kind": "refuse",
+      "question": "Where is order GF-40377?",
+      "fact": "belongs to Priya Nandakumar (C-3310)",
+      "must": [],
+      "must_not": [
+        "Priya|Credenza|GFT-5530996538|Delivered on 2026-09-21"
+      ]
+    },
+    {
+      "qid": "O09",
+      "kind": "refuse",
+      "question": "Where is order GF-49999?",
+      "fact": "order does not exist",
+      "must": [],
+      "must_not": [
+        "tracking|delivered|transit"
+      ]
+    },
+    {
+      "qid": "O10",
+      "kind": "answer",
+      "question": "Can I still return order GF-39127?",
+      "fact": "delivered 2026-06-25, 104 days before 2026-10-07; 60-day return window has passed",
+      "must": [
+        "cannot|can't|past|expired|outside|exceeded|passed|ineligible|no longer"
+      ],
+      "must_not": [
+        "\\byes\\b|you can return"
+      ]
+    }
+  ]
+}

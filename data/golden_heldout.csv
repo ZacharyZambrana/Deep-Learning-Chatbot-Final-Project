@@ -1,0 +1,13 @@
+qid,qtype,question,relevant,answer_span
+H01,lexical,How long is an account locked after repeated incorrect passwords?,KB-019,lock the account for 30 minutes
+H02,lexical,What prefix does a Grassroots Furniture tracking number start with?,KB-002,GFT- followed by ten
+H03,lexical,What pressure rating do cushion cores withstand in compression tests?,KB-025,10 metre column
+H04,semantic,Why might I see multiple pending holds on my card during checkout?,KB-013,you can see three holds
+H05,semantic,Can bench hardware be swapped between different table lengths?,KB-022,interchangeable
+H06,semantic,When am I charged for a built-to-order furniture preorder?,KB-027,not charged for a backordered item
+H07,multi_doc,"If an item goes on sale, is the price adjustment refund automatic?",KB-029|KB-006,adjustment is not automatic
+H08,multi_doc,How long do I have to return an eligible chair or dining table?,KB-004|KB-022,within 60 days
+H09,cross_section,How long do I have to request a fabric or wood finish exchange?,KB-008,same 60-day window
+H10,stale,Do standard returns incur a restocking fee under current policy?,KB-004,no restocking fee
+H11,restricted,What is the internal fraud velocity limit for multi-country orders?,,
+H12,unanswerable,Does Grassroots Furniture offer commercial aircraft passenger seating?,,

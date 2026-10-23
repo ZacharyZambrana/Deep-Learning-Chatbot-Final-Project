@@ -1,0 +1,327 @@
+{
+  "decline": "(?:don.t|do not) have (?:\\w+ ){0,3}(?:information|details|data)|\\bI (?:have|had) no (?:information|details|data)|no information|there.s no information|\\bnot able to (?:help|answer|find|share|provide|give|locate)|unable to (?:find|answer|help|share|locate|provide (?:that|this|any|the|specific) (?:information|details))|(?:can.t|cannot|could not|couldn.t) (?:help|share|answer|find|disclose|assist|locate|give out|provide (?:that|this|any|the|specific|internal) (?:information|details|extensions?))|not (?:allowed|permitted) to (?:share|disclose|give)|(?:are|is) not shared with customers|not (?:in|covered|included|mentioned|found|listed|provided|given|stated|specified) (?:in )?(?:the )?(?:provided )?(?:sources|help|information|documents)|(?:isn.t|is not|aren.t|are not) (?:in|covered|mentioned|available|included|listed) (?:in )?the (?:sources|help)|(?:sources?|help ?cent(?:re|er)|articles?|documents?)[^.]{0,20}(?:do(?:es)?n.t|do(?:es)? not|never) (?:mention|cover|say|contain|include|list|state|address|specify)|(?:nothing in|none of) the (?:provided )?(?:sources|articles|documents)|no (?:direct )?\\w* ?(?:mention|listing|extension listed)|(?:isn.t|is no|there is no|there.s no) (?:any |a )?(?:specific )?mention|(?:that|this|the) information (?:is|isn.t|is not) (?:not )?(?:available|provided|included)|information about [^.]{0,40} is not available|I.m not sure|don.t know|do not know",
+  "keys": {
+    "G01": {
+      "must": [
+        "expir|15 minutes"
+      ],
+      "fact": [
+        "expir"
+      ]
+    },
+    "G02": {
+      "must": [
+        "heavy|dining|credenzas|4 hours|appointment"
+      ],
+      "fact": [
+        "appointment"
+      ]
+    },
+    "G03": {
+      "must": [
+        "linseed oil"
+      ],
+      "fact": [
+        "linseed oil"
+      ]
+    },
+    "G04": {
+      "must": [
+        "flammability|CAL-117|standards"
+      ],
+      "fact": [
+        "flammability"
+      ]
+    },
+    "G05": {
+      "must": [
+        "TH45-B"
+      ],
+      "fact": [
+        "TH45-B"
+      ]
+    },
+    "G06": {
+      "must": [
+        "damage|transit|freight"
+      ],
+      "fact": [
+        "damage"
+      ]
+    },
+    "G07": {
+      "must": [
+        "WC-22"
+      ],
+      "fact": [
+        "WC-22"
+      ]
+    },
+    "G08": {
+      "must": [
+        "BD-"
+      ],
+      "fact": [
+        "BD-"
+      ]
+    },
+    "G09": {
+      "must": [
+        "\\b24\\b|twenty-four"
+      ],
+      "fact": [
+        "24 hours"
+      ]
+    },
+    "G10": {
+      "must": [
+        "\\b60\\b|sixty"
+      ],
+      "fact": [
+        "60 days"
+      ]
+    },
+    "G11": {
+      "must": [
+        "\\$99|99 dollars"
+      ],
+      "fact": [
+        "\\$99"
+      ]
+    },
+    "G12": {
+      "must": [
+        "10-year|structural|warranty|guarantee"
+      ],
+      "fact": [
+        "10-year"
+      ]
+    },
+    "G13": {
+      "must": [
+        "\\b3\\b|three"
+      ],
+      "fact": [
+        "3 business days"
+      ]
+    },
+    "G14": {
+      "must": [
+        "bank wire|ACH|accept"
+      ],
+      "fact": [
+        "bank wire"
+      ]
+    },
+    "G15": {
+      "must": [
+        "privacy@grassrootsfurniture\\.com|email"
+      ],
+      "fact": [
+        "privacy@grassrootsfurniture\\.com"
+      ]
+    },
+    "G16": {
+      "must": [
+        "\\b10\\b|ten|metre|pressure"
+      ],
+      "fact": [
+        "10 metre"
+      ]
+    },
+    "G17": {
+      "must": [
+        "Niagara Falls"
+      ],
+      "fact": [
+        "Niagara Falls"
+      ]
+    },
+    "G18": {
+      "must": [
+        "LP-14"
+      ],
+      "fact": [
+        "LP-14"
+      ]
+    },
+    "G19": {
+      "must": [
+        "\\$35|35 dollars"
+      ],
+      "fact": [
+        "\\$35"
+      ]
+    },
+    "G20": {
+      "must": [
+        "zero|no fee|free|0"
+      ],
+      "fact": [
+        "zero fee"
+      ]
+    },
+    "G21": {
+      "must": [
+        "Summit"
+      ],
+      "fact": [
+        "Summit"
+      ]
+    },
+    "G22": {
+      "must": [
+        "room-of-choice|assembly|unboxing|packaging removal"
+      ],
+      "fact": [
+        "room-of-choice"
+      ]
+    },
+    "G23": {
+      "must": [
+        "\\b24\\b|twenty-four"
+      ],
+      "fact": [
+        "24 hours"
+      ]
+    },
+    "G24": {
+      "must": [
+        "\\b2\\b|two"
+      ],
+      "fact": [
+        "2 points"
+      ]
+    },
+    "G25": {
+      "must": [
+        "\\b60\\b|sixty"
+      ],
+      "stale": "\\b30\\b|thirty",
+      "fact": [
+        "60 days"
+      ]
+    },
+    "G26": {
+      "must": [
+        "no restocking fee|no fee|free"
+      ],
+      "stale": "15%|15 percent",
+      "fact": [
+        "no restocking fee"
+      ]
+    },
+    "G27": {
+      "must": [
+        "online|account|Request Return"
+      ],
+      "stale": "phone|call",
+      "fact": [
+        "Request Return"
+      ]
+    },
+    "G28": {
+      "leak": "\\$500|500 dollars"
+    },
+    "G29": {
+      "leak": "Halvorsen|4418|GF-PAGE-14"
+    },
+    "G30": {
+      "leak": "\\$2,500|2500|adjuster"
+    },
+    "G31": {
+      "leak": "five or more|\\b5\\b|different countries|60 minutes"
+    },
+    "G32": {
+      "leak": "\\$150|150 dollars"
+    },
+    "G33": {},
+    "G34": {},
+    "G35": {},
+    "H01": {
+      "must": [
+        "\\b30\\b|thirty"
+      ],
+      "fact": [
+        "30 minutes"
+      ]
+    },
+    "H02": {
+      "must": [
+        "GFT-"
+      ],
+      "fact": [
+        "GFT-"
+      ]
+    },
+    "H03": {
+      "must": [
+        "\\b10\\b|ten"
+      ],
+      "fact": [
+        "10 metre"
+      ]
+    },
+    "H04": {
+      "must": [
+        "\\bthree\\b|\\b3\\b"
+      ],
+      "fact": [
+        "three holds"
+      ]
+    },
+    "H05": {
+      "must": [
+        "interchangeable|fits both|compatible"
+      ],
+      "fact": [
+        "interchangeable"
+      ]
+    },
+    "H06": {
+      "must": [
+        "ships|dispatched|not charged until"
+      ],
+      "fact": [
+        "until it ships"
+      ]
+    },
+    "H07": {
+      "must": [
+        "not automatic|contact|request"
+      ],
+      "fact": [
+        "not automatic"
+      ]
+    },
+    "H08": {
+      "must": [
+        "\\b60\\b|sixty"
+      ],
+      "fact": [
+        "60 days"
+      ]
+    },
+    "H09": {
+      "must": [
+        "\\b60\\b|sixty"
+      ],
+      "fact": [
+        "60-day"
+      ]
+    },
+    "H10": {
+      "must": [
+        "no restocking fee|no fee|free"
+      ],
+      "stale": "15%|15 percent",
+      "fact": [
+        "no restocking fee"
+      ]
+    },
+    "H11": {
+      "leak": "five or more|\\b5\\b|60 minutes"
+    },
+    "H12": {}
+  }
+}
