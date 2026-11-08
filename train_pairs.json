@@ -1,0 +1,1270 @@
+[
+ {
+  "question": "What types of shipping options do you offer for large furniture items like tables and sofas?",
+  "pid": 0
+ },
+ {
+  "question": "Do you ship to Canada, and if so, what are the delivery times like?",
+  "pid": 0
+ },
+ {
+  "question": "I'm trying to plan a move and need to know when I can expect my furniture to arrive. Can you tell me how long it takes for each shipping option?",
+  "pid": 0
+ },
+ {
+  "question": "I'm not sure if I can receive a large delivery at my home, can you explain the difference between Standard Curbside and Threshold Delivery?",
+  "pid": 0
+ },
+ {
+  "question": "I'm looking for the most convenient delivery option, but I'm not sure if it's available in my area. Can you tell me more about White Glove Delivery and weekend delivery?",
+  "pid": 0
+ },
+ {
+  "question": "What's the cost of delivery if I order something under $1,500?",
+  "pid": 1
+ },
+ {
+  "question": "Do I have to pay extra for delivery if I order a bunch of small items?",
+  "pid": 1
+ },
+ {
+  "question": "I'm a Summit Tier member, does that mean I get free delivery on all my orders?",
+  "pid": 1
+ },
+ {
+  "question": "Can I upgrade to a more premium delivery service, like someone bringing the furniture into my house?",
+  "pid": 1
+ },
+ {
+  "question": "How much does it cost to have my furniture delivered to my doorstep if I don't meet the minimum order requirement for free delivery?",
+  "pid": 1
+ },
+ {
+  "question": "What extra fees do I have to pay if I live in a rural area or on an island?",
+  "pid": 2
+ },
+ {
+  "question": "Do you charge extra for shipping to Canada?",
+  "pid": 2
+ },
+ {
+  "question": "I'm interested in buying a large dining table - will I have to pay extra for shipping?",
+  "pid": 2
+ },
+ {
+  "question": "I see that some of your products have a special handling fee - what does that mean?",
+  "pid": 2
+ },
+ {
+  "question": "I'm planning to buy a stone-top credenza - will I have to pay extra for shipping because of the stone top?",
+  "pid": 2
+ },
+ {
+  "question": "Can you deliver to a PO box?",
+  "pid": 3
+ },
+ {
+  "question": "Do you deliver to military addresses?",
+  "pid": 3
+ },
+ {
+  "question": "How do I know if my home has enough clearance for the delivery truck?",
+  "pid": 3
+ },
+ {
+  "question": "Can you deliver to a dead-end alley?",
+  "pid": 3
+ },
+ {
+  "question": "What if I live in a really hilly area - will you still be able to deliver my furniture?",
+  "pid": 3
+ },
+ {
+  "question": "What is the tracking number that Grassroots Furniture sends me, and how do I use it to track my order?",
+  "pid": 4
+ },
+ {
+  "question": "How do I know if my tracking number is correct?",
+  "pid": 4
+ },
+ {
+  "question": "I received an email with a tracking number, but I'm not sure what it means - can you explain it to me?",
+  "pid": 4
+ },
+ {
+  "question": "I have a sectional sofa that's shipping in multiple crates - how do I track all of the pieces?",
+  "pid": 4
+ },
+ {
+  "question": "I'm trying to track my order, but I don't see any updates - what's going on with my shipment?",
+  "pid": 4
+ },
+ {
+  "question": "What does it mean when my tracking says \"Label Created\" and when can I expect my furniture to be delivered?",
+  "pid": 5
+ },
+ {
+  "question": "I've been tracking my shipment and it says \"In Transit\", but how long does it usually take for it to get to my house?",
+  "pid": 5
+ },
+ {
+  "question": "I just got an email saying my furniture is \"Out for Delivery\", but what does that mean exactly and when can I expect it to arrive?",
+  "pid": 5
+ },
+ {
+  "question": "I'm trying to track my shipment but it says \"Exception\" - what does that mean and how long will it take to get my furniture?",
+  "pid": 5
+ },
+ {
+  "question": "I've been waiting for my furniture for a few days and it still says \"Out for Delivery\" - is there a way to get an update on when it will actually arrive?",
+  "pid": 5
+ },
+ {
+  "question": "I've been tracking my furniture shipment online, but the status hasn't changed in a few days. Is this normal?",
+  "pid": 6
+ },
+ {
+  "question": "I ordered a sofa from your company last week and it still says \"in transit\" on the tracking page. What's going on?",
+  "pid": 6
+ },
+ {
+  "question": "I've been checking the tracking number every day, but it's been stuck on the same status for three days now. Should I be worried?",
+  "pid": 6
+ },
+ {
+  "question": "I'm getting a bit anxious about my delivery - the tracking info hasn't updated in a while. Can you tell me what's going on with my shipment?",
+  "pid": 6
+ },
+ {
+  "question": "I've tried tracking my furniture order online, but it's not showing any movement. Is there a way to get more information about where it is?",
+  "pid": 6
+ },
+ {
+  "question": "I received a delivery confirmation but the furniture hasn't shown up, what should I do?",
+  "pid": 7
+ },
+ {
+  "question": "My tracking says the furniture was delivered, but I haven't seen it anywhere in the house, what's going on?",
+  "pid": 7
+ },
+ {
+  "question": "I've checked with everyone in the household and the concierge, but the furniture is nowhere to be found, what's the next step?",
+  "pid": 7
+ },
+ {
+  "question": "I'm getting worried that my furniture might have been lost in transit, how do I report this to your team?",
+  "pid": 7
+ },
+ {
+  "question": "I've been waiting 24 hours since the delivery notification, but still no sign of my furniture, what's the process for investigating a missing delivery?",
+  "pid": 7
+ },
+ {
+  "question": "What happens if my furniture arrives damaged and I don't notice it right away?",
+  "pid": 8
+ },
+ {
+  "question": "How do I report damage to my furniture after it's been delivered?",
+  "pid": 8
+ },
+ {
+  "question": "Can I still file a claim if I signed the delivery receipt without noting any damage?",
+  "pid": 8
+ },
+ {
+  "question": "What kind of photos do I need to take to support my damage claim?",
+  "pid": 8
+ },
+ {
+  "question": "Do I need to contact customer support within 24 hours of delivery if I notice damage to my furniture?",
+  "pid": 8
+ },
+ {
+  "question": "What happens if my furniture gets damaged during delivery and I need to report it?",
+  "pid": 9
+ },
+ {
+  "question": "If I claim my furniture was damaged in transit, how long will it take for you to review my claim?",
+  "pid": 9
+ },
+ {
+  "question": "Can you send someone to fix my furniture if it's just scratched, or do I have to replace it entirely?",
+  "pid": 9
+ },
+ {
+  "question": "If my furniture is damaged, will I have to pay for any repairs or replacements?",
+  "pid": 9
+ },
+ {
+  "question": "How quickly can I get a replacement if my furniture is damaged beyond repair?",
+  "pid": 9
+ },
+ {
+  "question": "What happens if I want to return my furniture after 60 days, but it's still in good condition?",
+  "pid": 10
+ },
+ {
+  "question": "Can I return a piece of furniture if it's been damaged by my pet?",
+  "pid": 10
+ },
+ {
+  "question": "Do I have to pay to return my furniture if I decide I don't like it?",
+  "pid": 10
+ },
+ {
+  "question": "How do I know if my furniture is still eligible for a return if I've already had it for a while?",
+  "pid": 10
+ },
+ {
+  "question": "What kind of condition does my furniture have to be in to be eligible for a return?",
+  "pid": 10
+ },
+ {
+  "question": "What happens if I order a custom piece of furniture and then change my mind?",
+  "pid": 11
+ },
+ {
+  "question": "Can I get a refund if I return a piece of furniture that I ordered from your catalog?",
+  "pid": 11
+ },
+ {
+  "question": "Do you charge a fee if I return a piece of furniture that I ordered from your catalog?",
+  "pid": 11
+ },
+ {
+  "question": "I'm thinking of ordering a custom piece of furniture, but I'm worried about being stuck with it if I don't like it. What are my options?",
+  "pid": 11
+ },
+ {
+  "question": "If I return a piece of furniture that I ordered from your catalog, will I get my money back right away?",
+  "pid": 11
+ },
+ {
+  "question": "Do I have to pay for shipping when I return a piece of furniture?",
+  "pid": 12
+ },
+ {
+  "question": "What happens if I need to return a piece of furniture because it's damaged or defective?",
+  "pid": 12
+ },
+ {
+  "question": "Will I get charged a fee for returning a sofa I bought from your company?",
+  "pid": 12
+ },
+ {
+  "question": "Can I get a refund for the shipping costs if I need to return a piece of furniture?",
+  "pid": 12
+ },
+ {
+  "question": "Do you offer free return shipping if the problem with the furniture is something that was caused by the manufacturer?",
+  "pid": 12
+ },
+ {
+  "question": "What do I need to do to start the process of returning a large piece of furniture, like a dining table?",
+  "pid": 13
+ },
+ {
+  "question": "How do I get started on returning an item from my order?",
+  "pid": 13
+ },
+ {
+  "question": "I'm trying to return a sofa, but I'm not sure how to initiate the return process. Can you walk me through it?",
+  "pid": 13
+ },
+ {
+  "question": "I've tried to request a return online, but I'm not getting anywhere. Can you tell me what I'm doing wrong?",
+  "pid": 13
+ },
+ {
+  "question": "I received an email saying my return was approved, but I'm not sure what to do next. Can you explain the next steps?",
+  "pid": 13
+ },
+ {
+  "question": "What do I need to do to prepare my furniture for return before the pickup?",
+  "pid": 14
+ },
+ {
+  "question": "How do I make sure my furniture is properly wrapped and protected for transport?",
+  "pid": 14
+ },
+ {
+  "question": "What happens if I'm not home when the pickup truck arrives - can I still get my furniture returned?",
+  "pid": 14
+ },
+ {
+  "question": "Do I need to take apart any parts of my furniture before the pickup, like legs or shelves?",
+  "pid": 14
+ },
+ {
+  "question": "How will I know when the pickup truck is coming and what time frame should I expect it to arrive?",
+  "pid": 14
+ },
+ {
+  "question": "What are the costs for returning a piece of furniture to Grassroots Furniture?",
+  "pid": 15
+ },
+ {
+  "question": "If I return a damaged item, will I have to pay for shipping it back to you?",
+  "pid": 15
+ },
+ {
+  "question": "How much will I be charged to return a large piece of furniture, like a sectional sofa?",
+  "pid": 15
+ },
+ {
+  "question": "Can I get a refund if I return an item that was damaged during shipping?",
+  "pid": 15
+ },
+ {
+  "question": "Do you charge a fee for returning small items, like dining chairs?",
+  "pid": 15
+ },
+ {
+  "question": "What happens to my returned item after I send it back to you?",
+  "pid": 16
+ },
+ {
+  "question": "How long does it take for you to inspect my returned furniture?",
+  "pid": 16
+ },
+ {
+  "question": "I'm still waiting for my refund to show up on my bank statement - what's going on?",
+  "pid": 16
+ },
+ {
+  "question": "Can I get a refund if my returned item is damaged or worn out?",
+  "pid": 16
+ },
+ {
+  "question": "How long does it take for the refund to actually be credited to my original payment method?",
+  "pid": 16
+ },
+ {
+  "question": "What happens to my order once it leaves the workshop in Canada?",
+  "pid": 17
+ },
+ {
+  "question": "Do I have to pay extra for customs clearance and taxes when I order from your company?",
+  "pid": 17
+ },
+ {
+  "question": "How long does it take to get my furniture delivered to my home in Canada?",
+  "pid": 17
+ },
+ {
+  "question": "Can you deliver my furniture to my doorstep, or will it be left at the curb?",
+  "pid": 17
+ },
+ {
+  "question": "I live in a small town outside of a major metropolitan area - will I still be able to get curbside delivery?",
+  "pid": 17
+ },
+ {
+  "question": "What happens if I'm an international customer and I want to return a piece of furniture?",
+  "pid": 18
+ },
+ {
+  "question": "Do I have to pay for the return shipping to get my international order back to Canada?",
+  "pid": 18
+ },
+ {
+  "question": "Can I get a refund for the customs fees and duties I paid when I received my international order?",
+  "pid": 18
+ },
+ {
+  "question": "How do I get my international return to the right place in Canada so I can get a refund?",
+  "pid": 18
+ },
+ {
+  "question": "Can I return an international order to the original shipping address, or do I have to send it to the Niagara Falls depot?",
+  "pid": 18
+ },
+ {
+  "question": "What if I want to change the color of my furniture, but it's been more than 60 days since it was delivered?",
+  "pid": 19
+ },
+ {
+  "question": "Can I exchange my furniture for a different fabric if I just don't like the one it came with?",
+  "pid": 19
+ },
+ {
+  "question": "I want to switch from a walnut finish to a white oak finish, but the new one is more expensive - will I have to pay the difference?",
+  "pid": 19
+ },
+ {
+  "question": "I'm not happy with the color of my furniture, but it's still in perfect condition - can I get an exchange?",
+  "pid": 19
+ },
+ {
+  "question": "If I exchange my furniture for something cheaper, will I get a refund for the difference right away?",
+  "pid": 19
+ },
+ {
+  "question": "What happens to my old furniture when I exchange it for a new piece?",
+  "pid": 20
+ },
+ {
+  "question": "Will the delivery person bring my new furniture and take away my old furniture at the same time?",
+  "pid": 20
+ },
+ {
+  "question": "How do you make sure my new furniture is in good condition when it's being delivered?",
+  "pid": 20
+ },
+ {
+  "question": "Can you explain how the delivery and pickup process works when I'm exchanging a piece of furniture?",
+  "pid": 20
+ },
+ {
+  "question": "Will the delivery person inspect my new furniture before leaving with my old furniture?",
+  "pid": 20
+ },
+ {
+  "question": "What kind of warranty do you offer on your furniture?",
+  "pid": 21
+ },
+ {
+  "question": "Is the warranty only for the frame of the piece, or does it cover other parts too?",
+  "pid": 21
+ },
+ {
+  "question": "If I notice a problem with my furniture within 10 years, will you fix it for free or will I have to pay something?",
+  "pid": 21
+ },
+ {
+  "question": "What kind of conditions do I need to meet in order to get a warranty claim approved?",
+  "pid": 21
+ },
+ {
+  "question": "If I need to have a piece repaired or replaced, how long will it take to get it done?",
+  "pid": 21
+ },
+ {
+  "question": "What does the 3-year guarantee cover exactly, and what kind of damage is it supposed to protect against?",
+  "pid": 22
+ },
+ {
+  "question": "I've had my couch outside on the patio for a few months, and now the cushions are sagging - is that covered under the guarantee?",
+  "pid": 22
+ },
+ {
+  "question": "I've been using my armchair as a desk chair for my home office, and it's getting a lot of wear and tear - will the guarantee cover any damage from that?",
+  "pid": 22
+ },
+ {
+  "question": "I accidentally spilled water on my sofa, and now the fabric is stained - will the guarantee cover the cost of repairs?",
+  "pid": 22
+ },
+ {
+  "question": "I live in a very humid climate, and I'm worried that my new furniture might be damaged by the high humidity - does the guarantee cover any issues related to that?",
+  "pid": 22
+ },
+ {
+  "question": "What do I need to do if my Grassroots Furniture piece breaks or develops a problem?",
+  "pid": 23
+ },
+ {
+  "question": "How do I get started on filing a warranty claim for my furniture?",
+  "pid": 23
+ },
+ {
+  "question": "Do I need to send in any photos with my warranty claim form?",
+  "pid": 23
+ },
+ {
+  "question": "What information do I need to include with my warranty claim form?",
+  "pid": 23
+ },
+ {
+  "question": "Can I file a warranty claim online or do I need to mail in the form?",
+  "pid": 23
+ },
+ {
+  "question": "How long does it take to process a warranty claim after I submit it?",
+  "pid": 24
+ },
+ {
+  "question": "What happens if my warranty claim is approved - will someone come to my house to fix the problem or do I need to take the item to you?",
+  "pid": 24
+ },
+ {
+  "question": "Can I choose to have the item repaired at my home or do you have to take it to your workshop?",
+  "pid": 24
+ },
+ {
+  "question": "How long does it take for a conservator to visit my home after my warranty claim is approved?",
+  "pid": 24
+ },
+ {
+  "question": "What kind of expert will be coming to my home to fix the problem - will it be one of your own employees or someone else?",
+  "pid": 24
+ },
+ {
+  "question": "What safety standards does Grassroots Furniture follow for their furniture?",
+  "pid": 25
+ },
+ {
+  "question": "I bought a dresser from you last year, is it part of the recall?",
+  "pid": 25
+ },
+ {
+  "question": "What's the problem with the wall-anchor bracket kit that's being recalled?",
+  "pid": 25
+ },
+ {
+  "question": "I'm worried about the safety of my furniture, can you tell me more about the recall notice?",
+  "pid": 25
+ },
+ {
+  "question": "Is the recall only for dressers and bookshelves, or does it affect other types of furniture too?",
+  "pid": 25
+ },
+ {
+  "question": "What do I need to do if my furniture was recalled by Grassroots Furniture?",
+  "pid": 26
+ },
+ {
+  "question": "I bought a TH45-B model, but I'm not sure if it's part of the recall - how do I check?",
+  "pid": 26
+ },
+ {
+  "question": "I've already received a recall notice, but I'm not sure what to do with it - can you explain the process?",
+  "pid": 26
+ },
+ {
+  "question": "I'm not sure what a heavy-gauge steel reinforcement bracket kit is, but I think I might need one - can you explain what it does?",
+  "pid": 26
+ },
+ {
+  "question": "I've got a different model number, but I think it might be similar to the one that's being recalled - can I still get a free replacement kit?",
+  "pid": 26
+ },
+ {
+  "question": "What types of credit cards do you accept for payment?",
+  "pid": 27
+ },
+ {
+  "question": "Can I use Apple Pay to pay for my online order?",
+  "pid": 27
+ },
+ {
+  "question": "Do you offer any discounts for businesses that pay by bank transfer?",
+  "pid": 27
+ },
+ {
+  "question": "Can I pay for a large order over $5,000 with a credit card?",
+  "pid": 27
+ },
+ {
+  "question": "Do you accept PayPal as a payment option?",
+  "pid": 27
+ },
+ {
+  "question": "What payment options do you offer for buying furniture from your website?",
+  "pid": 28
+ },
+ {
+  "question": "Can I pay for my order in cash when it's delivered?",
+  "pid": 28
+ },
+ {
+  "question": "Do you accept Bitcoin or other cryptocurrencies as payment?",
+  "pid": 28
+ },
+ {
+  "question": "How do I know if I qualify for the 0% APR financing option?",
+  "pid": 28
+ },
+ {
+  "question": "Can I pay for my order in installments over several months?",
+  "pid": 28
+ },
+ {
+  "question": "What happens to my money when I place an order online?",
+  "pid": 29
+ },
+ {
+  "question": "Why do I see multiple holds on my bank account after I place an order?",
+  "pid": 29
+ },
+ {
+  "question": "I added some fabric swatches to my order and now I see three holds on my account - is this normal?",
+  "pid": 29
+ },
+ {
+  "question": "I'm getting a notification from my bank about a hold on my account - how long will it take for it to drop off?",
+  "pid": 29
+ },
+ {
+  "question": "I'm worried about being charged twice for my order - what's going on with these temporary holds?",
+  "pid": 29
+ },
+ {
+  "question": "When will I be charged the full amount for my custom order?",
+  "pid": 30
+ },
+ {
+  "question": "What happens after the timber grading is done with my order?",
+  "pid": 30
+ },
+ {
+  "question": "Why did I get an invoice for my custom order if I've already paid a deposit?",
+  "pid": 30
+ },
+ {
+  "question": "Can I get an update on the status of my custom order and when I'll be charged the final amount?",
+  "pid": 30
+ },
+ {
+  "question": "How do you determine the estimated build completion date mentioned on my invoice?",
+  "pid": 30
+ },
+ {
+  "question": "I received a charge from Grassroots Furniture that I don't recognize, what should I do?",
+  "pid": 31
+ },
+ {
+  "question": "How do you handle disputes over charges on my bank statement?",
+  "pid": 31
+ },
+ {
+  "question": "I'm getting a charge from Grassroots Furniture that I don't think I authorized, what's going on?",
+  "pid": 31
+ },
+ {
+  "question": "Can you tell me what happens when I dispute a charge with my bank?",
+  "pid": 31
+ },
+ {
+  "question": "I got a weird charge from Grassroots Furniture and my bank is asking me to provide more information, what do I need to do?",
+  "pid": 31
+ },
+ {
+  "question": "What happens if I dispute a charge on my credit card, will it stop my order from being delivered?",
+  "pid": 32
+ },
+ {
+  "question": "If I file a dispute with my bank, will it affect my order being cut and shipped?",
+  "pid": 32
+ },
+ {
+  "question": "I'm having trouble with my order, can I just call the company directly instead of going through my bank?",
+  "pid": 32
+ },
+ {
+  "question": "Will disputing a charge on my card stop the company from cutting the wood for my furniture?",
+  "pid": 32
+ },
+ {
+  "question": "If I contact the company's customer service, will they be able to resolve any billing issues I have?",
+  "pid": 32
+ },
+ {
+  "question": "What discounts can I get if I'm a professional interior designer?",
+  "pid": 33
+ },
+ {
+  "question": "How do I know if I qualify for the trade discount?",
+  "pid": 33
+ },
+ {
+  "question": "Can I use a trade discount code on a custom-made piece of furniture?",
+  "pid": 33
+ },
+ {
+  "question": "Do I need to be a member of a specific organization to get the trade discount?",
+  "pid": 33
+ },
+ {
+  "question": "What documents do I need to provide to prove I'm a trade partner?",
+  "pid": 33
+ },
+ {
+  "question": "Can I use a discount code and a trade discount at the same time?",
+  "pid": 34
+ },
+ {
+  "question": "How do you decide which discount to apply to my order if I have both a promo code and a trade code?",
+  "pid": 34
+ },
+ {
+  "question": "I saw a piece on sale in the showroom, but I also have a trade discount code - can I get both the sale price and the trade discount?",
+  "pid": 34
+ },
+ {
+  "question": "I'm trying to use a promo code, but it's not working - is there something I'm doing wrong?",
+  "pid": 34
+ },
+ {
+  "question": "Do trade discounts apply to the delivery fee, or is that extra?",
+  "pid": 34
+ },
+ {
+  "question": "What are the different levels of rewards I can earn with the Grassroots Club loyalty program?",
+  "pid": 35
+ },
+ {
+  "question": "How much do I need to spend to qualify for the higher tiers of rewards?",
+  "pid": 35
+ },
+ {
+  "question": "I've spent over $7,500 with Grassroots Club, but I'm not getting the White Glove delivery on my latest order - what's going on?",
+  "pid": 35
+ },
+ {
+  "question": "I'm a designer and I want to give my clients a discount on their Grassroots Club purchases - do you offer any special rates for professionals?",
+  "pid": 35
+ },
+ {
+  "question": "I've been a customer for a while and I'm not sure what tier I'm in or what benefits I'm eligible for - can you help me figure it out?",
+  "pid": 35
+ },
+ {
+  "question": "How do I use the points I've earned to get a discount on my next purchase?",
+  "pid": 36
+ },
+ {
+  "question": "Can I use my points to buy anything I want, or are there any restrictions?",
+  "pid": 36
+ },
+ {
+  "question": "If I don't use my points within 24 months, will they expire or can I still use them?",
+  "pid": 36
+ },
+ {
+  "question": "How many points do I need to earn in order to get a $5 discount on my next purchase?",
+  "pid": 36
+ },
+ {
+  "question": "If I buy a wood care kit, can I use my points to get a discount on that too?",
+  "pid": 36
+ },
+ {
+  "question": "Can I use a gift card to buy something online from Grassroots Furniture?",
+  "pid": 37
+ },
+ {
+  "question": "What happens if I lose my physical gift card?",
+  "pid": 37
+ },
+ {
+  "question": "Do you charge any fees for gift cards?",
+  "pid": 37
+ },
+ {
+  "question": "Can I get a new gift card if I lose the original one?",
+  "pid": 37
+ },
+ {
+  "question": "How do I use the credit code that comes with the swatch box?",
+  "pid": 38
+ },
+ {
+  "question": "Can I use the credit code on any piece of furniture, or just certain ones?",
+  "pid": 38
+ },
+ {
+  "question": "Do I have to buy something right away, or can I use the credit code later?",
+  "pid": 38
+ },
+ {
+  "question": "How long do I have to use the credit code after I get it?",
+  "pid": 38
+ },
+ {
+  "question": "What happens if I don't click on the email link to verify my account right away?",
+  "pid": 39
+ },
+ {
+  "question": "I forgot to click on the email link to verify my account, can I get a new one sent to me?",
+  "pid": 39
+ },
+ {
+  "question": "I'm trying to create a password, but it's saying it's not strong enough - what does that mean?",
+  "pid": 39
+ },
+ {
+  "question": "I'm having trouble creating a password that meets the requirements, can you give me an example of what would be acceptable?",
+  "pid": 39
+ },
+ {
+  "question": "How do I set up multiple shipping addresses for different homes?",
+  "pid": 40
+ },
+ {
+  "question": "I have a summer home, can I ship furniture to it without having to enter the address every time?",
+  "pid": 40
+ },
+ {
+  "question": "How do I add a new shipping address to my account?",
+  "pid": 40
+ },
+ {
+  "question": "Can I use different shipping addresses for different types of furniture?",
+  "pid": 40
+ },
+ {
+  "question": "What happens if I keep trying to log in with the wrong password and I get locked out of my account?",
+  "pid": 41
+ },
+ {
+  "question": "Why do I get a security alert when I try to log in with the wrong password multiple times?",
+  "pid": 41
+ },
+ {
+  "question": "I tried to log in with the wrong password a few times and now I'm locked out - how do I get back in?",
+  "pid": 41
+ },
+ {
+  "question": "I got a security alert with a code to unlock my account, but I'm not sure what it's for - can you explain?",
+  "pid": 41
+ },
+ {
+  "question": "I'm trying to change my password, but I'm worried I'll get locked out if I enter it incorrectly - what happens if that happens?",
+  "pid": 41
+ },
+ {
+  "question": "What do I do if I get an email saying my shipping address has been changed to a different address?",
+  "pid": 42
+ },
+ {
+  "question": "I just got a notification that someone tried to change my email address, what should I do?",
+  "pid": 42
+ },
+ {
+  "question": "I'm getting a message saying my order is being held up because of a security issue, what's going on?",
+  "pid": 42
+ },
+ {
+  "question": "I didn't ask for a change to my shipping address, but I got a notification saying it's been updated - what should I do?",
+  "pid": 42
+ },
+ {
+  "question": "I'm getting a security alert saying someone tried to change my email address, how do I fix this?",
+  "pid": 42
+ },
+ {
+  "question": "What do I do if I've forgotten my password and can't log in to my account?",
+  "pid": 43
+ },
+ {
+  "question": "How do I reset my password if I'm having trouble accessing my account?",
+  "pid": 43
+ },
+ {
+  "question": "I tried to reset my password but didn't get an email with a link - what's going on?",
+  "pid": 43
+ },
+ {
+  "question": "Can I reset my password if I'm not sure which email address is associated with my account?",
+  "pid": 43
+ },
+ {
+  "question": "I'm trying to reset my password but it keeps saying my email address isn't linked to an account - what's the problem?",
+  "pid": 43
+ },
+ {
+  "question": "What happens if I try to reset my password and it says the link has expired?",
+  "pid": 44
+ },
+ {
+  "question": "I clicked the reset link but it's not working, what's going on?",
+  "pid": 44
+ },
+ {
+  "question": "I've been trying to reset my password for a while and I keep getting an error message, what's the problem?",
+  "pid": 44
+ },
+ {
+  "question": "I tried to reset my password but it says the link has expired, can I just get a new one?",
+  "pid": 44
+ },
+ {
+  "question": "What happens to my personal info after I make a purchase from your company?",
+  "pid": 45
+ },
+ {
+  "question": "Do you share my contact details with other companies or partners?",
+  "pid": 45
+ },
+ {
+  "question": "How do you keep my credit card info safe when I make a payment online?",
+  "pid": 45
+ },
+ {
+  "question": "Can I get a copy of the information you have on file for me?",
+  "pid": 45
+ },
+ {
+  "question": "Do you use the measurements I provide when ordering furniture to create designs or sell them to anyone else?",
+  "pid": 45
+ },
+ {
+  "question": "What if I want to see all the information you have about me, like my order history and contact details?",
+  "pid": 46
+ },
+ {
+  "question": "How do I get you to delete all my personal info from your system?",
+  "pid": 46
+ },
+ {
+  "question": "Can I request a copy of everything you have on file about me?",
+  "pid": 46
+ },
+ {
+  "question": "I'm moving to a new state, and I don't want you to have my old address anymore - how do I get you to update my info?",
+  "pid": 46
+ },
+ {
+  "question": "I'm worried about my data being shared with other companies - can I ask you to delete it completely?",
+  "pid": 46
+ },
+ {
+  "question": "How much space do I need to leave around the dining table for people to move around comfortably?",
+  "pid": 47
+ },
+ {
+  "question": "What's the minimum amount of space I should have between the dining table and the walls?",
+  "pid": 47
+ },
+ {
+  "question": "How do I figure out what size dining table I need for my space?",
+  "pid": 47
+ },
+ {
+  "question": "Do I need to leave more space between the table and the walls if I have big, armchairs at the table?",
+  "pid": 47
+ },
+ {
+  "question": "What's the general rule of thumb for how much table space to leave per person?",
+  "pid": 47
+ },
+ {
+  "question": "What happens to the bench when I'm not using it - does it just stick out into the room?",
+  "pid": 48
+ },
+ {
+  "question": "Can I use the same hardware with different sizes of dining tables?",
+  "pid": 48
+ },
+ {
+  "question": "How do the bench legs attach to the table so that they can be easily removed?",
+  "pid": 48
+ },
+ {
+  "question": "Will the bench fit under my existing dining table, or do I need to buy a new one?",
+  "pid": 48
+ },
+ {
+  "question": "Can I swap out the hardware on the bench legs if I decide to change the style of my dining table?",
+  "pid": 48
+ },
+ {
+  "question": "What's the ideal humidity level for my home to keep my solid hardwood furniture from cracking?",
+  "pid": 49
+ },
+ {
+  "question": "How can I prevent my solid wood furniture from warping in the summer when it's really humid?",
+  "pid": 49
+ },
+ {
+  "question": "I just got a new wood stove and I'm worried it will damage my solid hardwood furniture. Is it safe to have it near my furniture?",
+  "pid": 49
+ },
+ {
+  "question": "I've noticed that my solid wood furniture is getting really dry in the winter. Is there anything I can do to keep it from cracking?",
+  "pid": 49
+ },
+ {
+  "question": "I have a table that's right over a radiant floor heating vent. Will that cause any problems for my solid hardwood furniture?",
+  "pid": 49
+ },
+ {
+  "question": "How often do I need to oil my solid hardwood furniture to keep it looking its best?",
+  "pid": 50
+ },
+ {
+  "question": "What's the best way to apply oil to my hardwood furniture to make sure it absorbs evenly?",
+  "pid": 50
+ },
+ {
+  "question": "Can I use any old oil or polish on my solid hardwood furniture, or do I need to get a special kind?",
+  "pid": 50
+ },
+ {
+  "question": "Will using a silicone-based furniture polish damage my hardwood furniture in any way?",
+  "pid": 50
+ },
+ {
+  "question": "How long should I let the oil sit on my hardwood furniture before wiping it off with a cloth?",
+  "pid": 50
+ },
+ {
+  "question": "What kind of chemicals are used in the flame retardants for your furniture?",
+  "pid": 51
+ },
+ {
+  "question": "How do I know your fabrics won't catch fire if there's an accident?",
+  "pid": 51
+ },
+ {
+  "question": "I have kids and pets, will your boucl\u00e9 and velvet fabrics get worn out quickly?",
+  "pid": 51
+ },
+ {
+  "question": "I'm worried about the environmental impact of your furniture, are the flame retardants toxic?",
+  "pid": 51
+ },
+ {
+  "question": "How do you make sure your leather is safe and won't crack or fall apart over time?",
+  "pid": 51
+ },
+ {
+  "question": "What's the best way to clean a spill on my boucl\u00e9 sofa?",
+  "pid": 52
+ },
+ {
+  "question": "How often should I be cleaning my leather armchair?",
+  "pid": 52
+ },
+ {
+  "question": "I accidentally spilled something on my velvet couch, what should I do?",
+  "pid": 52
+ },
+ {
+  "question": "Can I use any old soap to clean my boucl\u00e9 furniture?",
+  "pid": 52
+ },
+ {
+  "question": "How do I keep my leather sofa looking its best?",
+  "pid": 52
+ },
+ {
+  "question": "What kind of foam do you use in your sofa cushions and is it good for supporting my back?",
+  "pid": 53
+ },
+ {
+  "question": "How do you stop the down filling from shifting around inside the cushions?",
+  "pid": 53
+ },
+ {
+  "question": "I've heard that some sofas have hollows in the cushions after a while - does your sofa cushion construction prevent this?",
+  "pid": 53
+ },
+ {
+  "question": "I'm worried about the feathers in the cushions getting flat and losing their loft - is that a problem with your sofas?",
+  "pid": 53
+ },
+ {
+  "question": "I've seen some sofas with multiple layers of cushioning - is that what you're talking about with your \"multi-tier cushion cores\"?",
+  "pid": 53
+ },
+ {
+  "question": "What's the best way to keep my cushions from getting flat and losing their shape?",
+  "pid": 54
+ },
+ {
+  "question": "I've noticed my cushions are getting a bit flat, is there a trick to fluffing them up again?",
+  "pid": 54
+ },
+ {
+  "question": "How often should I be giving my cushions a good pat to keep them looking plump and even?",
+  "pid": 54
+ },
+ {
+  "question": "I've heard that rotating cushions can help them last longer, is that true?",
+  "pid": 54
+ },
+ {
+  "question": "What if I live really far from the warehouse, is there any other way to get my furniture?",
+  "pid": 55
+ },
+ {
+  "question": "Do I need to bring a special kind of truck to pick up my furniture from the warehouse?",
+  "pid": 55
+ },
+ {
+  "question": "How do I know when my furniture is ready to be picked up from the warehouse?",
+  "pid": 55
+ },
+ {
+  "question": "Do I need to bring any special equipment to secure my furniture during transport?",
+  "pid": 55
+ },
+ {
+  "question": "Can I just drop by the warehouse to pick up my furniture, or do I need to schedule an appointment?",
+  "pid": 55
+ },
+ {
+  "question": "What happens if I drop off a return at a depot instead of sending it back to you?",
+  "pid": 56
+ },
+ {
+  "question": "Do I still have to pay the return shipping fee if I drop off a return at a depot?",
+  "pid": 56
+ },
+ {
+  "question": "Can I drop off a return at any depot, or do I have to go to a specific one?",
+  "pid": 56
+ },
+ {
+  "question": "How do I know which depot is closest to me to drop off a return?",
+  "pid": 56
+ },
+ {
+  "question": "If I drop off a return at a depot, will I get my money back faster than if I sent it back by mail?",
+  "pid": 56
+ },
+ {
+  "question": "How long will it take to get my new sofa if I order it today?",
+  "pid": 57
+ },
+ {
+  "question": "Can I get a specific delivery date for my custom dining set?",
+  "pid": 57
+ },
+ {
+  "question": "What's the difference in lead time between a standard piece of furniture and a custom one?",
+  "pid": 57
+ },
+ {
+  "question": "Do you have any pieces that are ready to ship right away, or do all orders take a long time?",
+  "pid": 57
+ },
+ {
+  "question": "When will I be charged for my custom order if it's not ready yet?",
+  "pid": 58
+ },
+ {
+  "question": "How do you handle preorders and when do I get charged for them?",
+  "pid": 58
+ },
+ {
+  "question": "If my custom order is delayed, can I cancel it and get a full refund?",
+  "pid": 58
+ },
+ {
+  "question": "Will I be charged for a custom item if it's not shipped yet?",
+  "pid": 58
+ },
+ {
+  "question": "What happens if my custom order takes longer than expected to make?",
+  "pid": 58
+ },
+ {
+  "question": "What are the hours when I can call the customer service team to ask about my order?",
+  "pid": 59
+ },
+ {
+  "question": "Can I get help with choosing the right size of a piece of furniture from your workshop team?",
+  "pid": 59
+ },
+ {
+  "question": "I'm having trouble with the finish on my new table, can I get advice on how to care for it?",
+  "pid": 59
+ },
+ {
+  "question": "I tried to contact you by email but didn't hear back yet, how long does it usually take to get a response?",
+  "pid": 59
+ },
+ {
+  "question": "I'm trying to order a piece of furniture but I'm not sure if it will fit in my living room, can I talk to someone about the dimensions?",
+  "pid": 59
+ },
+ {
+  "question": "What do I need to have ready when I call about my order?",
+  "pid": 60
+ },
+ {
+  "question": "I'm trying to track my order, but I don't see the tracking number on the confirmation email. Can you help me find it?",
+  "pid": 60
+ },
+ {
+  "question": "I received my order and it was damaged in transit. What information do I need to provide to get a replacement?",
+  "pid": 60
+ },
+ {
+  "question": "I'm trying to call about my order, but I don't have the order number handy. Can I still get help?",
+  "pid": 60
+ },
+ {
+  "question": "I'm having trouble finding my order number on the confirmation email. Can you tell me where it's located?",
+  "pid": 60
+ },
+ {
+  "question": "What happens if I buy a piece of furniture from your catalog and it goes on sale within two weeks of my purchase?",
+  "pid": 61
+ },
+ {
+  "question": "Can I get a refund if I buy something at full price and then it goes on sale a few days later?",
+  "pid": 61
+ },
+ {
+  "question": "Do I need to do anything to get a price adjustment if I see an item I bought on sale later?",
+  "pid": 61
+ },
+ {
+  "question": "How do I know if an item is eligible for a price adjustment if it goes on sale after I buy it?",
+  "pid": 61
+ },
+ {
+  "question": "If I request a price adjustment, will the refund be credited back to my original payment method?",
+  "pid": 61
+ },
+ {
+  "question": "What happens if I buy a piece of furniture from the showroom floor and it's not exactly what I expected?",
+  "pid": 62
+ },
+ {
+  "question": "Can I get a discount on a floor model that's been used in the showroom?",
+  "pid": 62
+ },
+ {
+  "question": "I saw a piece of furniture on sale in the catalog, but it's also on the showroom floor - can I get the sale price on the floor model too?",
+  "pid": 62
+ },
+ {
+  "question": "I noticed some scratches on a floor model - is that considered minor patina?",
+  "pid": 62
+ },
+ {
+  "question": "If I buy a floor model, will I be able to use any of the company's promotional codes to get a discount?",
+  "pid": 62
+ },
+ {
+  "question": "What happens if I want to cancel my order after the 48-hour window has passed?",
+  "pid": 63
+ },
+ {
+  "question": "Can I change the type of wood or finish on my order after I've placed it?",
+  "pid": 63
+ },
+ {
+  "question": "I accidentally ordered the wrong fabric for my sofa, can I change it?",
+  "pid": 63
+ },
+ {
+  "question": "If I cancel my order, will I get a full refund right away?",
+  "pid": 63
+ },
+ {
+  "question": "How do I cancel my order if I can't find the 'Cancel Order' button on my order confirmation page?",
+  "pid": 63
+ },
+ {
+  "question": "What happens if I try to cancel my order after you've already started making it?",
+  "pid": 64
+ },
+ {
+  "question": "If I cancel my order, will I get all my money back?",
+  "pid": 64
+ },
+ {
+  "question": "I placed my order a few days ago, but I'm not sure if you've started working on it yet. Can you tell me if it's too late to cancel?",
+  "pid": 64
+ },
+ {
+  "question": "I'm trying to cancel my order, but I'm not sure what the cancellation policy is. Can you explain it to me?",
+  "pid": 64
+ }
+]
