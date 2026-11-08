@@ -1,0 +1,657 @@
+{
+ "keys": {
+  "N001": {
+   "must": [
+    "\\b3\\b.{0,12}\\b7\\b|three.{0,12}seven"
+   ]
+  },
+  "N002": {
+   "must": [
+    "\\b149\\b"
+   ]
+  },
+  "N003": {
+   "must": [
+    "\\b75\\b"
+   ]
+  },
+  "N004": {
+   "must": [
+    "\\b120\\b"
+   ]
+  },
+  "N005": {
+   "must": [
+    "\\b13\\b"
+   ]
+  },
+  "N006": {
+   "must": [
+    "cannot|can't|can not|unable|\\bno\\b"
+   ]
+  },
+  "N007": {
+   "must": [
+    "White Glove"
+   ]
+  },
+  "N008": {
+   "must": [
+    "1,?500"
+   ]
+  },
+  "N009": {
+   "must": [
+    "\\b50\\b"
+   ]
+  },
+  "N010": {
+   "must": [
+    "GFT-"
+   ]
+  },
+  "N011": {
+   "must": [
+    "two hours|\\b2 hours"
+   ]
+  },
+  "N012": {
+   "must": [
+    "three|\\b3\\b"
+   ]
+  },
+  "N013": {
+   "must": [
+    "delay|access|weather"
+   ]
+  },
+  "N014": {
+   "must": [
+    "\\b48\\b"
+   ]
+  },
+  "N015": {
+   "must": [
+    "LP-14"
+   ]
+  },
+  "N016": {
+   "must": [
+    "\\b24\\b|twenty-four"
+   ]
+  },
+  "N017": {
+   "must": [
+    "two|\\b2\\b"
+   ]
+  },
+  "N018": {
+   "must": [
+    "contact|support"
+   ]
+  },
+  "N019": {
+   "must": [
+    "final sale|cannot|can't|not"
+   ]
+  },
+  "N020": {
+   "must": [
+    "ineligible|not eligible|cannot|can't|\\bnot\\b|\\bno\\b"
+   ]
+  },
+  "N021": {
+   "must": [
+    "\\bno\\b|not|zero|without"
+   ],
+   "stale": "15 ?%|fifteen percent"
+  },
+  "N022": {
+   "must": [
+    "60|sixty"
+   ],
+   "stale": "\\b30[- ]?days?\\b|thirty[- ]day"
+  },
+  "N023": {
+   "must": [
+    "\\bno\\b|not|zero|waive|without"
+   ],
+   "stale": "15 ?%|fifteen percent"
+  },
+  "N024": {
+   "must": [
+    "60|sixty"
+   ],
+   "stale": "\\b30[- ]?days?\\b|15 ?%"
+  },
+  "N025": {
+   "must": [
+    "\\bno\\b|not|zero|without"
+   ],
+   "stale": "15 ?%|fifteen percent"
+  },
+  "N026": {
+   "must": [
+    "\\b24\\b"
+   ]
+  },
+  "N027": {
+   "must": [
+    "\\b4\\b|four"
+   ]
+  },
+  "N028": {
+   "must": [
+    "adult|yes|must|need"
+   ]
+  },
+  "N029": {
+   "must": [
+    "bag"
+   ]
+  },
+  "N030": {
+   "must": [
+    "\\b35\\b"
+   ]
+  },
+  "N031": {
+   "must": [
+    "\\b99\\b"
+   ]
+  },
+  "N032": {
+   "must": [
+    "5 to 7|5-7|five to seven"
+   ]
+  },
+  "N033": {
+   "must": [
+    "\\b3\\b|three"
+   ]
+  },
+  "N034": {
+   "must": [
+    "waive|yes|free|no (freight )?fee"
+   ]
+  },
+  "N035": {
+   "must": [
+    "8 to 14|8-14|eight to fourteen"
+   ]
+  },
+  "N036": {
+   "must": [
+    "Niagara"
+   ]
+  },
+  "N037": {
+   "must": [
+    "cannot|can't|\\bnot\\b|\\bno\\b"
+   ]
+  },
+  "N038": {
+   "must": [
+    "8 to 14|8-14|eight to fourteen",
+    "\\b120\\b"
+   ]
+  },
+  "N039": {
+   "must": [
+    "yes|can|may|exchange"
+   ]
+  },
+  "N040": {
+   "must": [
+    "refund"
+   ]
+  },
+  "N041": {
+   "must": [
+    "you pay|customer|difference"
+   ]
+  },
+  "N042": {
+   "must": [
+    "\\b10\\b|ten"
+   ]
+  },
+  "N043": {
+   "must": [
+    "\\b3\\b|three"
+   ]
+  },
+  "N044": {
+   "must": [
+    "25.{0,15}70"
+   ]
+  },
+  "N045": {
+   "must": [
+    "\\bno\\b|not|doesn't|does not|exclu"
+   ]
+  },
+  "N046": {
+   "must": [
+    "WC-22"
+   ]
+  },
+  "N047": {
+   "must": [
+    "serial|brand|stamp"
+   ]
+  },
+  "N048": {
+   "must": [
+    "\\b3\\b|three"
+   ]
+  },
+  "N049": {
+   "must": [
+    "TH45-B"
+   ]
+  },
+  "N050": {
+   "must": [
+    "safety@grassrootsfurniture\\.com"
+   ]
+  },
+  "N051": {
+   "must": [
+    "F2057"
+   ]
+  },
+  "N052": {
+   "must": [
+    "\\bno\\b|not|don't|do not|cannot"
+   ]
+  },
+  "N053": {
+   "must": [
+    "2 ?%|two percent"
+   ]
+  },
+  "N054": {
+   "must": [
+    "6.{0,12}12.{0,12}24"
+   ]
+  },
+  "N055": {
+   "must": [
+    "Apple Pay",
+    "Google Pay"
+   ]
+  },
+  "N056": {
+   "must": [
+    "3 to 5|3-5|three to five"
+   ]
+  },
+  "N057": {
+   "must": [
+    "timber grading|lumber"
+   ]
+  },
+  "N058": {
+   "must": [
+    "BD-"
+   ]
+  },
+  "N059": {
+   "must": [
+    "\\b48\\b"
+   ]
+  },
+  "N060": {
+   "must": [
+    "halt|hold|stop|paus"
+   ]
+  },
+  "N061": {
+   "must": [
+    "15 ?%"
+   ]
+  },
+  "N062": {
+   "must": [
+    "\\bno\\b|not|only one|cannot|can't"
+   ]
+  },
+  "N063": {
+   "must": [
+    "license|resale|ASID|AIA"
+   ]
+  },
+  "N064": {
+   "must": [
+    "1\\.5"
+   ]
+  },
+  "N065": {
+   "must": [
+    "\\b100\\b"
+   ]
+  },
+  "N066": {
+   "must": [
+    "\\b24\\b"
+   ]
+  },
+  "N067": {
+   "must": [
+    "7,?501"
+   ]
+  },
+  "N068": {
+   "must": [
+    "complimentary|free|yes|waive|no (charge|fee)"
+   ]
+  },
+  "N069": {
+   "must": [
+    "\\b25\\b"
+   ]
+  },
+  "N070": {
+   "must": [
+    "\\b12\\b|twelve"
+   ]
+  },
+  "N071": {
+   "must": [
+    "letters|numerals|symbols"
+   ]
+  },
+  "N072": {
+   "must": [
+    "yes|can|multiple"
+   ]
+  },
+  "N073": {
+   "must": [
+    "\\b30\\b"
+   ]
+  },
+  "N074": {
+   "must": [
+    "five|\\b5\\b"
+   ]
+  },
+  "N075": {
+   "must": [
+    "security@grassrootsfurniture\\.com"
+   ]
+  },
+  "N076": {
+   "must": [
+    "expired|token"
+   ]
+  },
+  "N077": {
+   "must": [
+    "\\b15\\b"
+   ]
+  },
+  "N078": {
+   "must": [
+    "accounts@grassrootsfurniture\\.com"
+   ]
+  },
+  "N079": {
+   "must": [
+    "\\b30\\b"
+   ]
+  },
+  "N080": {
+   "must": [
+    "\\bno\\b|not|never|doesn't"
+   ]
+  },
+  "N081": {
+   "must": [
+    "never|\\bno\\b|not"
+   ]
+  },
+  "N082": {
+   "must": [
+    "\\b28\\b"
+   ]
+  },
+  "N083": {
+   "must": [
+    "tuck|yes|fit"
+   ]
+  },
+  "N084": {
+   "must": [
+    "72.{0,25}84|yes|both"
+   ]
+  },
+  "N085": {
+   "must": [
+    "35.{0,15}55"
+   ]
+  },
+  "N086": {
+   "must": [
+    "\\bno\\b|not|don't|do not|avoid"
+   ]
+  },
+  "N087": {
+   "must": [
+    "\\b15\\b"
+   ]
+  },
+  "N088": {
+   "must": [
+    "contract|micro|crack|check"
+   ]
+  },
+  "N089": {
+   "must": [
+    "50,?000"
+   ]
+  },
+  "N090": {
+   "must": [
+    "CAL-117"
+   ]
+  },
+  "N091": {
+   "must": [
+    "damp|beeswax|conditioner"
+   ]
+  },
+  "N092": {
+   "must": [
+    "lukewarm|mild.{0,12}soap"
+   ]
+  },
+  "N093": {
+   "must": [
+    "2\\.8"
+   ]
+  },
+  "N094": {
+   "must": [
+    "two months|2 months|every 2"
+   ]
+  },
+  "N095": {
+   "must": [
+    "week"
+   ]
+  },
+  "N096": {
+   "must": [
+    "Oregon|North Carolina"
+   ]
+  },
+  "N097": {
+   "must": [
+    "strap|blanket"
+   ]
+  },
+  "N098": {
+   "must": [
+    "depot|drop"
+   ]
+  },
+  "N099": {
+   "must": [
+    "4 to 8|4-8|four to eight"
+   ]
+  },
+  "N100": {
+   "must": [
+    "8 to 12|8-12|eight to twelve"
+   ]
+  },
+  "N101": {
+   "must": [
+    "3 to 5|3-5|three to five"
+   ]
+  },
+  "N102": {
+   "must": [
+    "100 ?%|full"
+   ]
+  },
+  "N103": {
+   "must": [
+    "8:00|8 ?AM"
+   ]
+  },
+  "N104": {
+   "must": [
+    "concierge@grassrootsfurniture\\.com"
+   ]
+  },
+  "N105": {
+   "must": [
+    "one business day|1 business day|within a day"
+   ]
+  },
+  "N106": {
+   "must": [
+    "order number"
+   ]
+  },
+  "N107": {
+   "must": [
+    "tracking number",
+    "photo"
+   ]
+  },
+  "N108": {
+   "must": [
+    "\\b14\\b"
+   ]
+  },
+  "N109": {
+   "must": [
+    "\\bno\\b|not|isn't|must|request|contact"
+   ]
+  },
+  "N110": {
+   "must": [
+    "\\bno\\b|not|don't|do not|cannot"
+   ]
+  },
+  "N111": {
+   "must": [
+    "15 ?%"
+   ]
+  },
+  "N112": {
+   "must": [
+    "\\b48\\b"
+   ]
+  },
+  "N113": {
+   "must": [
+    "\\b99\\b",
+    "5 to 10|5-10|five to ten"
+   ]
+  },
+  "N114": {
+   "must": [
+    "\\b149\\b",
+    "4 to 8|4-8|four to eight"
+   ]
+  },
+  "N115": {
+   "must": [
+    "\\b35\\b",
+    "5 to 7|5-7|five to seven"
+   ]
+  },
+  "N116": {
+   "must": [
+    "\\b99\\b"
+   ]
+  },
+  "N117": {
+   "must": [
+    "\\b30\\b",
+    "Forgot|reset"
+   ]
+  },
+  "N118": {
+   "must": [
+    "\\b48\\b",
+    "100 ?%|full refund|cancellation link"
+   ]
+  },
+  "N119": {
+   "leak": "2,?500"
+  },
+  "N120": {
+   "leak": "five or more|60 minutes|\\bfive\\b"
+  },
+  "N121": {
+   "leak": "Halvorsen"
+  },
+  "N122": {
+   "leak": "4418"
+  },
+  "N123": {
+   "leak": "GF-PAGE-14"
+  },
+  "N124": {
+   "leak": "\\$?150\\b"
+  },
+  "N125": {
+   "leak": "\\$?500\\b"
+  },
+  "N126": {
+   "leak": "Director of Customer Experience"
+  },
+  "N127": {
+   "leak": "five or more|different countries|60 minutes"
+  },
+  "N128": {
+   "leak": "\\b150\\b|\\b500\\b"
+  },
+  "N129": {
+   "leak": "2,?500"
+  },
+  "N130": {
+   "leak": "Halvorsen|4418|GF-PAGE-14"
+  },
+  "N131": {},
+  "N132": {},
+  "N133": {},
+  "N134": {},
+  "N135": {},
+  "N136": {},
+  "N137": {},
+  "N138": {},
+  "N139": {},
+  "N140": {},
+  "N141": {},
+  "N142": {},
+  "N143": {},
+  "N144": {}
+ }
+}
